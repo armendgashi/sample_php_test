@@ -1,4 +1,5 @@
 <?php
+# test comment
 require_once 'comments.php';
 
 $name = $_POST['name'] ?? '';
